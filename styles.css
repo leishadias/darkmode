@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+}
+
+#toggler {
+  background-color: white;
+  border: 2px solid black;
+  height: 30px;
+  width: 90px;
+  border-radius: 20%/50%;
+  display: flex;
+  align-items: center;
+}
+
+#button {
+  background-color: black;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
